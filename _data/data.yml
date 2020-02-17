@@ -19,7 +19,7 @@ sidebar:
     github: 1995gisun
     gitlab:
     bitbucket:
-    twitter: ''
+    twitter: 
     stack-overflow: 9014040/jisun # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -65,11 +65,6 @@ experiences:
       time: 2018 - 2020
       company: SejongTelecom, Bundang
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           - Developing Media Gateway Project
           - Developing Additional Voice Service(use SS7, SIP protocol)
           - 카카오 알림톡 API test client
